@@ -1,0 +1,84 @@
+/*  
+to make img scroll with the page
+    background-attachment: fixed; 
+    background-attachment:scroll
+
+src img path
+    background-image: url(); 
+
+to cntrol img size:
+    background-size: contain; 
+    background-size: cover; 
+    background-size: 100px 100px;
+    background-size: 50% 50%;
+background-rebeat: rebeat / no rebeat     
+*/
+
+
+/* body{ 
+    color:brown;
+    background-color:cornflowerblue;
+    
+}*/
+h1{
+    color: crimson;
+    /* background-color: cyan; */
+}
+p{
+    color: crimson;
+    /* background-color: cyan; */
+}
+hr{
+    border:3px solid rgb(62, 60, 192);
+}
+
+.assign-1-shape-1{
+width: 500px;
+margin: auto;
+background-color: #892be2;
+}
+.assign-1-shape-2{
+width: 500px;
+margin: auto;
+background-color: #892be27a;
+}
+.assign-1-shape-3{
+width: 500px;
+margin: auto;
+background-color: #892be225;
+}
+
+
+.assign-2-shape-1{
+    width: 400px;
+    height: 400px;
+    background-image: url(2.png);
+    background-repeat: no-repeat;
+    margin: auto;
+    background-color: silver;
+}
+.assign-2-shape-2{
+    width: 400px;
+    height: 400px;
+    background-image: url(2.png);
+    background-repeat: repeat-y;
+    margin: auto;
+    background-color: silver;
+}
+.assign-2-shape-3{
+    width: 400px;
+height: 400px;
+background-image: url(2.png);
+background-repeat: repeat-x;
+margin: auto;
+background-color: silver;
+}
+.assign-2-shape-4{
+    width: 400px;
+height: 400px;
+background-image: url(2.png);
+background-repeat: repeat;
+margin: auto;
+background-color: silver;
+}
+/* New Assignment strt assign 3 */
